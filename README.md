@@ -1,8 +1,6 @@
 # Google-Game
 Google the Game
 
-To play the game, visit [botorbro.com](botorbro.com)
-
 # Description 
 This is a game based on Google suggestions. Built with Node.js, React, Bootstrap and Socket.IO
 
